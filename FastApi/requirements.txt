@@ -1,0 +1,6 @@
+fastapi[all]
+sqlalchemy
+databases
+jinja2
+passlib
+python-jose
